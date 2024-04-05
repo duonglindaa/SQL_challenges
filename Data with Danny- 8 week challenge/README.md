@@ -14,5 +14,5 @@
 
 
 <a name="learnings"></a>
-## Learnings 
+## Learnings 🧠
 
