@@ -9,6 +9,6 @@
 
 | Week | Challenge | Description | My solution |
 |-----------|-------------|:-----------:|:-------------:|
-| 1 | The Data Source Bank | [📋](https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html) |[↗️](https://github.com/duonglindaa/SQL_challenges/tree/main/LEGO%20SQL%20Challenge) |
+| 1 | The Data Source Bank | [📋](https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html) |[↗️](https://github.com/duonglindaa/SQL_challenges/tree/main/Preppin%20Data/2023/W1) |
 
 </details>
