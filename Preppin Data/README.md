@@ -10,5 +10,6 @@
 | Week | Challenge | Description | My solution |
 |-----------|-------------|:-----------:|:-------------:|
 | 1 | The Data Source Bank | [📋](https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html) |[↗️](https://github.com/duonglindaa/SQL_challenges/tree/main/Preppin%20Data/2023/W1) |
+| 2 | International Bank Account Numbers | [📋](https://preppindata.blogspot.com/2023/01/2023-week-2-international-bank-account.html) |[↗️](https://github.com/duonglindaa/SQL_challenges/tree/main/Preppin%20Data/2023/W2) |
 
 </details>
