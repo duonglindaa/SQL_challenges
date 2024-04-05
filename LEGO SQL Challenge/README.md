@@ -1,5 +1,11 @@
-# Data with Danny Section A
+# LEGO SQL Challenge
 
-[Case Study #2](https://8weeksqlchallenge.com/case-study-2/)
+### Contents 📖
+- [Tasks](#tasks)
 
-[My solutions](https://github.com/duonglindaa/sql_challenges/blob/main/Case%20Study%20%232-%20Pizza%20Runner_a.sql)
+<a name="tasks"></a>
+## Tasks
+
+## Outcomes
+
+## Learnings
