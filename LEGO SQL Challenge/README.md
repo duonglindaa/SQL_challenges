@@ -6,80 +6,13 @@
 - [Learnings](#learnings)
 
 <a name="tasks"></a>
-## Tasks
-x
+## Tasks 📋
 
-x
-
-x
-
-x
-
-x
-
-xx
-
-x
-
-x
-
-xx
-
-x
 
 <a name="outcomes"></a>
-## Outcomes
-x
+## Outcomes 🟰
 
-x
-
-x
-
-xx
-
-x
-
-x
-
-xx
-
-x
-
-x
-
-xx
-
-x
-
-xx
 
 <a name="learnings"></a>
-## Learnings
-x
-x
-x
-x
+## Learnings 
 
-x
-x
-
-x
-x
-
-x
-x
-
-x
-x
-x
-
-
-x
-x
-x
-
-x
-x
-
-
-x
