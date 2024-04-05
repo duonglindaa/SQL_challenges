@@ -26,10 +26,18 @@ Click on the [link](https://github.com/wjsutton/lego_analysis_challenge) to find
 
 <a name="outcomes"></a>
 ## Outcomes 🟰
+#### Schema setup
 [SQL script](https://github.com/duonglindaa/SQL_challenges/blob/main/LEGO%20SQL%20Challenge/SQL%20script.sql) for creating the schema.
 
 ER diagram:
+![Screenshot](https://github.com/duonglindaa/SQL_challenges/blob/main/LEGO%20SQL%20Challenge/ER%20diagram.png?raw=true)
 
+
+#### Analysis
+[SQL script](https://github.com/duonglindaa/SQL_challenges/blob/main/LEGO%20SQL%20Challenge/SQL%20script.sql) for analysing and creating the data for visualization.
+
+#### Visualisation
+![Screenshot](https://github.com/duonglindaa/SQL_challenges/blob/main/LEGO%20SQL%20Challenge/Dashboard%201.png?raw=true)
 
 <a name="learnings"></a>
 ## Learnings 🧠
