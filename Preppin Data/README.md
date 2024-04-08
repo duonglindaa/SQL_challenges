@@ -12,6 +12,6 @@
 | 1 | The Data Source Bank | [📋](https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html) |[↗️](https://github.com/duonglindaa/SQL_challenges/tree/main/Preppin%20Data/2023/W1) |
 | 2 | International Bank Account Numbers | [📋](https://preppindata.blogspot.com/2023/01/2023-week-2-international-bank-account.html) |[↗️](https://github.com/duonglindaa/SQL_challenges/tree/main/Preppin%20Data/2023/W2) |
 | 3 | Targets for DSB | [📋](https://preppindata.blogspot.com/2023/01/2023-week-3-targets-for-dsb.html) |[↗️](https://github.com/duonglindaa/SQL_challenges/tree/main/Preppin%20Data/2023/W3) |
-| 4 | new Customers | [📋](https://preppindata.blogspot.com/2023/01/2023-week-4-new-customers.html) |[↗️](https://github.com/duonglindaa/SQL_challenges/tree/main/Preppin%20Data/2023/W4) |
+| 4 | New Customers | [📋](https://preppindata.blogspot.com/2023/01/2023-week-4-new-customers.html) |[↗️](https://github.com/duonglindaa/SQL_challenges/tree/main/Preppin%20Data/2023/W4) |
 
 </details>
